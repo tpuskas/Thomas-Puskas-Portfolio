@@ -1,0 +1,1 @@
+Labs completed this past year to understand transistor and MOSFET circuits. Used breadboard to create each circuit, used wave generators and DC power supply andtested them using ammeter and oscilloscope to understand how and why we use each circuit with the goal to combine what we learn to create a project in this semester.
